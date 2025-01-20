@@ -1,21 +1,19 @@
-# Image Processing Project
+# Image Processing Project CIFAR-10
 
-This project focuses on image processing tasks implemented in Python. It leverages popular libraries such as `OpenCV`, `os`, `re`, `argparse`, and `json` to process images and extract meaningful information.
+## Models
+- **BaseLine**
+- **SoftMax**
+- **The Fully Convolutional Neural Network (FCNN)**
+- **The Convolutional Neural Network (CNN)**
 
-## Features
+#### DOCS
 
-- **Image Conversion**: Convert images to grayscale or apply transformations.
-- **Image Information Extraction**: Extract dimensions and pixel data from images.
-- **Batch Processing**: Process multiple images in a specified directory.
-- **Command-Line Interface**: Use arguments to specify input files and processing modes.
+[Click Here](https://docs.google.com/document/d/1UTfDsYaKGJp-4OxiIy1r9l7fSOxLOnxivl1vAiSoOB8/edit?usp=sharing)
 
-## Requirements
 
-- Python 3.8 or later
-- OpenCV (`cv2`)
-- Other built-in Python libraries (`os`, `re`, `argparse`, `json`)
 
-Install OpenCV using pip if not already installed:
+#### Presentation
 
-```bash
-pip install opencv-python
+[Click Here](https://docs.google.com/presentation/d/1jbFuiONB4Jzo-SYDII6fE2WHxQgahs5P7e0xL9MJUQE/edit?usp=sharing)
+
+
